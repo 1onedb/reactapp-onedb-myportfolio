@@ -1,4 +1,4 @@
-## A Portfolio Onedb Project
+## A Portfolio Onedb Project using Firebase
   - React
   - Vue
 
@@ -28,3 +28,5 @@
 ### Future
 - [ ] user setup
 - [ ] log system
+- [ ] Firebase Function
+- [ ] FCM
