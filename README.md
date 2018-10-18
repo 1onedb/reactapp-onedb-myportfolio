@@ -36,7 +36,7 @@
 - [ ] More to come...
 
 ### Future
-- [ ] user setup
-- [ ] log system
-- [ ] Firebase Function
-- [ ] FCM
+- [ ] User management
+- [ ] Todo log system
+- [ ] Firebase Cloud Function
+- [ ] Firebase Cloud Messaging
