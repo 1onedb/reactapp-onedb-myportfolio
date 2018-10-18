@@ -1,6 +1,16 @@
 ## A Portfolio Onedb Project using Firebase
-  - React
-  - Vue
+  - Web
+    - React
+    - Vue
+    - Angular (soon...)
+  - Mobile
+    - Flutter
+    - NativescriptVue
+    - React Native
+  - Server Side
+    - Next
+    - Nuxt
+  - Electron
 
 ### Plans
 - [x] Project Installation
