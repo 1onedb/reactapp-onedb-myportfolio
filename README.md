@@ -1,6 +1,16 @@
 ## A Portfolio Onedb Project using Firebase
-  - React
-  - Vue
+  - Web
+    - React
+    - Vue
+    - Angular (soon...)
+  - Mobile
+    - Flutter
+    - NativescriptVue
+    - React Native
+  - Server Side
+    - Next
+    - Nuxt
+  - Electron
 
 ### Plans
 - [x] Project Installation
@@ -26,7 +36,7 @@
 - [ ] More to come...
 
 ### Future
-- [ ] user setup
-- [ ] log system
-- [ ] Firebase Function
-- [ ] FCM
+- [ ] User management
+- [ ] Todo log system
+- [ ] Firebase Cloud Function
+- [ ] Firebase Cloud Messaging
